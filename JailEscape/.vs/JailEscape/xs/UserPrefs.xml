@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.JailEscape FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JailEscape/MyClass.cs">
+    <Files>
+      <File FileName="JailEscape/MyClass.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JailEscape" expanded="True">
+            <Node name="JailEscape" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
