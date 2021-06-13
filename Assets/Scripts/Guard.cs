@@ -36,15 +36,15 @@ public class Guard : MonoBehaviour
             navMesh.destination = home;
         }
     }
-    private void OnCollisionEnter(Collision collision)
+        private void OnCollisionEnter(Collision collision)
     {
 
         if (collision.gameObject.CompareTag("Player") && alerted)
         {
-            losePanel.SetActive(true);
-            Time.timeScale = 0f;
+                losePanel.SetActive(true);
+                Time.timeScale = 0f;
         }
-
+         
     }
 }
 
